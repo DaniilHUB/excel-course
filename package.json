@@ -1,0 +1,27 @@
+{
+    "name": "excel-course",
+    "version": "1.0.0",
+    "description": "Pure JavaScript Excel Application",
+    "main": "webpack.config.js",
+    "scripts": {
+      "test": "  "
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/DaniilHUB/excel-course.git"
+    },
+    "keywords": [
+      "js",
+      "javascript",
+      "excel"
+    ],
+    "author": "Daniil Ivancha <3duty@mail.ru>",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/DaniilHUB/excel-course/issues"
+    },
+    "homepage": "https://github.com/DaniilHUB/excel-course#readme",
+    "dependencies": {
+      "jshint": "^2.13.1"
+    }
+  
